@@ -13,3 +13,4 @@
 // realizr pruebas unitarias with jest for javascript project
 
 // CI/CD
+## NPM to do a transforms like a traslation, scale, and rotation that one element with webGl and angularjs
